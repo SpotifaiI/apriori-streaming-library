@@ -1,0 +1,15 @@
+antecedent,consequent,support,confidence,lift
+Thackeray,Pioneers of African-American Cinema,0.017,0.8500000000000001,29.31034482758621
+Pioneers of African-American Cinema,Thackeray,0.017,0.5862068965517242,29.31034482758621
+Pioneers of African-American Cinema,Navarasa,0.019,0.6551724137931034,28.48575712143928
+Navarasa,Pioneers of African-American Cinema,0.019,0.8260869565217391,28.485757121439278
+Godzilla,Pretty Guardian Sailor Moon Eternal The Movie,0.017,0.653846153846154,28.428093645484957
+Pretty Guardian Sailor Moon Eternal The Movie,Godzilla,0.017,0.7391304347826088,28.428093645484953
+Pioneers: First Women Filmmakers*,Pioneers of African-American Cinema,0.016,0.8,27.586206896551726
+Pioneers of African-American Cinema,Pioneers: First Women Filmmakers*,0.016,0.5517241379310345,27.586206896551722
+Pioneers of African-American Cinema,Pretty Guardian Sailor Moon Eternal The Movie,0.015,0.5172413793103448,22.488755622188904
+Pretty Guardian Sailor Moon Eternal The Movie,Pioneers of African-American Cinema,0.015,0.6521739130434783,22.488755622188904
+Six Windows in the Desert,Pioneers of African-American Cinema,0.016,0.64,22.068965517241377
+Pioneers of African-American Cinema,Six Windows in the Desert,0.016,0.5517241379310345,22.068965517241377
+Pioneers of African-American Cinema,Godzilla,0.016,0.5517241379310345,21.220159151193634
+Godzilla,Pioneers of African-American Cinema,0.016,0.6153846153846154,21.220159151193634
