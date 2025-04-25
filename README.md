@@ -97,3 +97,21 @@ python main.py --catalog netflix_titles.csv --watch_history watch_history_synthe
 | **Support** | “Essa combinação é comum o bastante?” | 0 – 1 | Filtrar regras muito raras para evitar ruído. |
 | **Confidence** | “Qual a chance de clicar na sugestão?” | 0 – 1 | Métrica de acerto bruta; quanto maior, melhor. |
 | **Lift** | “Quão especial é essa relação?” | > 1 bom<br>≈ 1 irrelevante<br>< 1 negativa | Ótimo para ranquear: valores altos indicam forte afinidade. |
+
+## Gráficos gerados:
+
+
+<div align='center'>
+
+
+**Gráfico de lift:**
+
+![rules_lift](./images/rules_lift.png)
+
+
+**Rede de Afinidades (confidence) entre filmes:**
+![rules_network](./images/rules_network.png)
+
+
+
+</div>
